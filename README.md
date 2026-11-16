@@ -1,0 +1,1 @@
+# soc-n1-incident-investigation-wazuh
